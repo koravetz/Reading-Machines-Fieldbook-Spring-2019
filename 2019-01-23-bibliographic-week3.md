@@ -1,5 +1,5 @@
 layout: post  
-title: "Annotations for Week 2: Format"  
+title: "Annotations for Week 3"  
 tags: [bibliographic annotation, fieldbook]  
 author: Kenneth Oravetz
 
