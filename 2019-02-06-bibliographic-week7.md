@@ -1,0 +1,6 @@
+layout: post  
+title: "Annotations for Week 7: Assemblage"  
+tags: [bibliographic annotation, fieldbook]  
+author: Kenneth Oravetz
+
+The introduction to *Writing With Scissors* served as a reminder of how we often recontextualize terms to fit our own ends. A scrapbook in the 19th century sense was a collection of passages, generally from periodicals, collected for later reference or enjoyment. Garvey examines these sketchbooks in part to develop a greater understanding of the individuals who wrote them. I found interesting her discussion of juxtaposition and palimpset. To what extent can juxtapositions of passages and passage-backing page text combinations to be treated as conscious efforts that are thus readable in terms of what they imply about their authors, as Garvey implies? To me, there is certainly a potential degree of intention, but that may be difficult to prove, particularly when it comes to palimpset. It could be that one started a scrapbook on a page that seemed relevant to their interests, but then later diverged from those interests based on something outside the book on which they are scrapbooking, making reading the palimpset irrelevant when it comes to rebuilding past lives.
